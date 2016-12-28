@@ -1,5 +1,5 @@
 # SYNX SHOOTER
-Final Project of [Digital System Design and Lab, NTU CSIE]
+Final Project of [Digital System Design and Lab 2016, NTU CSIE]
 
 #### Introduction (to be modified)
 This is a shooter game based on mainly [Phaser] framework.  
