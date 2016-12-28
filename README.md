@@ -1,4 +1,4 @@
-# SYNX SHOOTER
+# SYNXSHOOTER
 Final Project of [Digital System Design and Lab 2016, NTU CSIE]
 
 #### Introduction (to be modified)
@@ -37,7 +37,7 @@ $ npm start
  > open url "http://localhost:3000" with browser  
  > start mobile app and key in the magic hash value ( text highlighted below )
  
-![alt tag](https://github.com/TEMU3000/DSDL/blob/master/assets/github/menu_page.png)
+![alt tag](https://github.com/SahsB/SYNXSHOOTER/blob/master/assets/github/menu_page.png)
 
 #### Tech (to be modified)
 * Front End
@@ -54,5 +54,5 @@ $ npm start
    [express]: <http://expressjs.com>
    [socket.io]: <http://socket.io>
    [firebase]: <https://www.firebase.com>
-   [github repository]: <https://github.com/TEMU3000/DSDL_Android>
+   [github repository]: <https://github.com/SahsB/SYNXSHOOTER-MOBILE>
    [Digital System Design and Lab 2016, NTU CSIE]: <https://sites.google.com/site/digitalsystemdesignandlab2016/home>
