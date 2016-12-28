@@ -1,5 +1,5 @@
 # SYNX SHOOTER
-Final project of DSDL, 2016 spring, NTU.
+Final Project of [Digital System Design and Lab, NTU CSIE]
 
 #### Introduction (to be modified)
 This is a shooter game based on mainly [Phaser] framework.  
@@ -55,3 +55,4 @@ $ npm start
    [socket.io]: <http://socket.io>
    [firebase]: <https://www.firebase.com>
    [github repository]: <https://github.com/TEMU3000/DSDL_Android>
+   [Digital System Design and Lab 2016, NTU CSIE]: <https://sites.google.com/site/digitalsystemdesignandlab2016/home>
